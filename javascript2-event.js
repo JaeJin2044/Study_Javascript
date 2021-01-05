@@ -65,7 +65,7 @@ window.addEventListener("load", function(){
         console.log('addButton.onclick');
         var img = document.createElement('img');
         img.src = 'images/img1.jpg';
-        //요너석 다음에 넣겠다.(afterend 태그가 닫히는부분)
+        //요녀석 다음에 넣겠다.(afterend 태그가 닫히는부분)
         currentImg.insertAdjacentElement('afterend',img);
     };
 
